@@ -14,4 +14,4 @@
 ![img](databaseSchemaUser.png)
 
 # Login Module
-![img](Database Design User.png)
+![img](loginModule.png)
