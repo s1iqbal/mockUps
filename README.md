@@ -23,3 +23,6 @@ Desktop Note Application User story and mockup display. Created for fun
 
 # Login Module
 ![img](loginModule.png)
+
+# Signup Module
+![img](signupModule.png)
