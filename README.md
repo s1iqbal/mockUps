@@ -5,7 +5,7 @@ Desktop Note Application User story and mockup display. Created for fun
 
 Scroll Down for pretty pictures!
 
-```
+
 [User Stories](https://github.com/user/repo/blob/branch/other_file.md)
 
 [Database Design Display](https://raw.githubusercontent.com/s1iqbal/mockUps/master/databaseSchemaUser.png)
@@ -14,7 +14,6 @@ Scroll Down for pretty pictures!
 
 [Sign Up Module](https://raw.githubusercontent.com/s1iqbal/mockUps/master/signupModule.png)
 
-```
 
 
 # User Stories
