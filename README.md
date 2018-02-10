@@ -1,6 +1,13 @@
 # Description
+Desktop Note Application User story and mockup display. Created for fun
 
-**Stack**: MEER
+# User Stories
+![img](UserStories.png)
+
+
+# Stack Information
+
+**Stack Description**: MEER
 
 **Datastore**: mongoDb
 
@@ -9,6 +16,7 @@
 **Backend**: Express & Vanilla JS
 
 **Runtime**: Node
+
 
 # Database Schema
 ![img](databaseSchemaUser.png)
