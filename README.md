@@ -41,3 +41,6 @@ Scroll Down for pretty pictures!
 
 # Signup Module
 ![img](signupModule.png)
+
+# Local Note Module
+![img](localNoteModule.png)
