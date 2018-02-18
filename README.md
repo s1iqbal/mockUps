@@ -34,6 +34,7 @@ Scroll Down for pretty pictures!
 
 
 # Database Schema
+(Will seperate data and user module into seperate schema)
 ![img](databaseSchemaUser.png)
 
 # Login Module
